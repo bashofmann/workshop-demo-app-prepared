@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   workshop-demo-app:
   - apiVersion: v2
+    appVersion: v0.2.0
+    created: "2022-10-17T12:59:08.925123097Z"
+    description: A Helm chart for Kubernetes
+    digest: cfc47f50238878abadeb5e32eb7e654ded64109ef31f3ac8a040298403c3c9d4
+    name: workshop-demo-app
+    type: application
+    urls:
+    - https://github.com/bashofmann/workshop-demo-app-prepared/releases/download/workshop-demo-app-0.2.2/workshop-demo-app-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v2
     appVersion: 0.2.0
     created: "2022-10-17T12:41:09.752081114Z"
     description: A Helm chart for Kubernetes
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/bashofmann/workshop-demo-app-prepared/releases/download/workshop-demo-app-0.2.1/workshop-demo-app-0.2.1.tgz
     version: 0.2.1
-generated: "2022-10-17T12:41:09.752085114Z"
+generated: "2022-10-17T12:59:08.925130197Z"
